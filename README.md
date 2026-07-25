@@ -18,16 +18,6 @@ Software Solutions Engineer with hands-on experience across Salesforce developme
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-<img height="165em" src="https://streak-stats.demolab.com/?user=OmarHazem123&theme=radical&hide_border=true" />
-
-</div>
-
----
-
 ## 🎓 Education & Credentials
 
 - 🏔️ Salesforce Trailhead — **Expeditioner** · 80 badges · 46,000 points · 9 trails ([Trailblazer profile](https://www.salesforce.com/trailblazer/omarhazemwk))
