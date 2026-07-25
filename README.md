@@ -11,16 +11,22 @@
 ## 💼 Organizations & Work
 
 - 💻 Software Solutions Engineer at **Accountants-on-Air** — Salesforce development & administration
-- 🎓 Studied at **Galala University**, Faculty of Administrative Sciences, in collaboration with **Arizona State University** (Class of 2025)
-- 🏔️ Active on Salesforce Trailhead — **Expeditioner** rank, attending the Salesforce community (Cairo Dreamin 2026)
+- 🏔️ Active in the Salesforce Trailblazer community (Cairo Dreamin 2026)
 
 ---
 
-## 📊 GitHub Activity
+## 📊 Profile Summary
 
 <div align="center">
 
 <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarHazem123&theme=radical" />
+
+</div>
+
+## 🔥 Contribution Streak
+
+<div align="center">
+
 <img height="165em" src="https://streak-stats.demolab.com/?user=OmarHazem123&theme=radical&hide_border=true" />
 
 </div>
@@ -37,9 +43,11 @@
 
 ## 🎓 Education & Credentials
 
-- 🏔️ Salesforce Trailhead — **Expeditioner** · 80 badges · 46,000 points · 9 trails ([Trailblazer profile](https://www.salesforce.com/trailblazer/omarhazemwk))
-- 🎓 Digital Egypt Pioneers Program (DEPI) — Data Analytics / Microsoft Power BI Engineer track, Ministry of Communications and Information Technology, Egypt
 - 🎓 Galala University — Faculty of Administrative Sciences, in collaboration with Arizona State University (Class of 2025)
+- 🏔️ Salesforce Trailhead — **Expeditioner** · 80 badges · 46,000 points · 9 trails ([Trailblazer profile](https://www.salesforce.com/trailblazer/omarhazemwk))
+- 📊 Digital Egypt Pioneers Program (DEPI) — Data Analytics / Microsoft Power BI Engineer track, Ministry of Communications and Information Technology, Egypt
+
+---
 
 ## 🛠️ Skills
 
