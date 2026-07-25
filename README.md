@@ -1,6 +1,6 @@
 <div align="center">
 
-# Omar Hazem
+# Omar Hazem (OmarHazem123)
 
 **🔧 Salesforce Dev & Admin · 📊 Data Analytics & BI · 🤖 AI-Integrated Apps**
 
@@ -8,13 +8,11 @@
 
 ---
 
-Software Solutions Engineer with hands-on experience across Salesforce development and administration, data analytics, and backend development — turning business problems into working systems: automated workflows, BI dashboards, and integrated platforms. Based in Cairo, Egypt.
+## 💼 Organizations & Work
 
-## 💼 Focus & Currently
-
-- 🔧 Salesforce development and administration
-- 📊 Data analytics & BI — Power BI, Tableau, SQL
-- 🤖 Currently leading integration (architecture, API contracts, deterministic scoring, release process) for a multi-engineer Next.js/TypeScript app using Gemini and Groq
+- 💻 Software Solutions Engineer at **Accountants-on-Air** — Salesforce development & administration
+- 🎓 Studied at **Galala University**, Faculty of Administrative Sciences, in collaboration with **Arizona State University** (Class of 2025)
+- 🏔️ Active on Salesforce Trailhead — **Expeditioner** rank, attending the Salesforce community (Cairo Dreamin 2026)
 
 ---
 
@@ -25,6 +23,14 @@ Software Solutions Engineer with hands-on experience across Salesforce developme
 <img height="165em" src="https://streak-stats.demolab.com/?user=OmarHazem123&theme=radical&hide_border=true" />
 
 </div>
+
+---
+
+## 🚀 What is Being Built
+
+- **CareerForge** — AI-integrated CV/portfolio evaluation platform (Next.js, TypeScript, Gemini/Groq) — Integration Lead on a multi-engineer team project
+- **XAUUSD Gold Trading Bot** — algorithmic trading system in Python with MetaTrader 5 integration
+- **Arboris Accounting Platform** — in active development
 
 ---
 
