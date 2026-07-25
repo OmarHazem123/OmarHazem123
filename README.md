@@ -20,6 +20,7 @@
 
 <div align="center">
 
+<img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmarHazem123&theme=radical" />
 <img height="165em" src="https://streak-stats.demolab.com/?user=OmarHazem123&theme=radical&hide_border=true" />
 
 </div>
